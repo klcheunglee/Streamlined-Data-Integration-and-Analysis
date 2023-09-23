@@ -1,4 +1,4 @@
-# Streamlined Data Ingestion with pandas Projects
+# Streamlined Data Ingestion and analysis
 
 <h3> Extract, transform, load dataset from SQL</h3>
 Assembling a dataset to investigate how the number of heating complaints to New York City's 311 line varies with temperature.
